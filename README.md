@@ -48,6 +48,9 @@ This project performs Exploratory Data Analysis (EDA) on Amazon Prime Video's da
 [[Click here to view notebook]](https://colab.research.google.com/drive/1Rf5CTXQuv7UdYwMnxi36JVdSXgRVjMA2#scrollTo=kFkGJC18euPw&uniqifier=3)
 
 ---
+##🚀 View Full Project
+
+👉 Click here: https://nbviewer.org/github/SumittRajputt/amazon-prime-analysis/blob/main/Notebook/Amazon_Data_Analysis_M2%20%281%29.ipynb
 
 ## 👤 Author
 
