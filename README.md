@@ -1,15 +1,16 @@
-# 📊 Amazon Prime Video Data Analysis
+# 📊 Amazon Prime Video Content Analysis
 
-## 🔍 Overview
+## 🚀 Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on Amazon Prime Video's dataset to uncover insights about content distribution, ratings, popularity, and talent impact.
+This project performs an in-depth Exploratory Data Analysis (EDA) on Amazon Prime Video’s content dataset to uncover patterns in content quality, popularity, genre trends, and the impact of actors and directors.
 
 ---
 
 ## 🎯 Business Objective
 
-* Understand content trends and distribution
-* Analyze relationship between popularity and ratings
+* Analyze content distribution and trends
+* Evaluate content quality using IMDb ratings
+* Understand relationship between popularity and performance
 * Identify high-performing genres and talent
 * Support data-driven content strategy
 
@@ -18,40 +19,50 @@ This project performs Exploratory Data Analysis (EDA) on Amazon Prime Video's da
 ## 📂 Project Structure
 
 ```
-📁 data → dataset files  
-📁 notebooks → analysis notebook  
-📁 reports → future reports  
-📁 src → reusable code (optional)  
+📁 data        → Dataset files  
+📁 notebooks   → Main analysis notebook  
+📁 reports     → Final insights summary  
+📁 src         → (Optional reusable code)  
+📄 README.md   → Project documentation  
 ```
 
 ---
 
 ## 📊 Key Insights
 
-* Content volume increased over time but quality remained stable
-* Popularity and ratings show weak positive correlation
-* High frequency of actors/directors does not guarantee better ratings
-* Content can be segmented into premium, hidden gems, and low-impact
+* 📈 Content volume has increased significantly over time
+* 🎭 Drama and Comedy dominate the platform
+* ⭐ Ratings remain stable despite content growth
+* 🔥 Popularity and ratings show weak correlation
+* 🎬 Talent frequency does not guarantee high quality
+* 💎 Hidden gems exist with low visibility but high ratings
 
 ---
 
-## 🛠 Tools Used
+## 📌 Final Analysis
+
+Content can be segmented into:
+
+* **Premium** → High rating + high popularity
+* **Hidden Gems** → High rating + low popularity
+* **Overhyped** → Low rating + high popularity
+* **Low Impact** → Low rating + low popularity
+
+---
+
+## 🛠 Tools & Technologies
 
 * Python (Pandas, NumPy)
 * Matplotlib, Seaborn, Plotly
-* Jupyter Notebook
+* Jupyter / Google Colab
 
 ---
 
-## 🚀 Project Link
+## 🚀 View Full Notebook
 
-[[Click here to view notebook]](https://colab.research.google.com/drive/1Rf5CTXQuv7UdYwMnxi36JVdSXgRVjMA2#scrollTo=kFkGJC18euPw&uniqifier=3)
-
+👉https://nbviewer.org/github/SumittRajputt/amazon-prime-analysis/blob/main/Notebook/Amazon_Data_Analysis_M2%20%281%29.ipynb
 ---
-##🚀 View Full Project
-
-👉 Click here: https://nbviewer.org/github/SumittRajputt/amazon-prime-analysis/blob/main/Notebook/Amazon_Data_Analysis_M2%20%281%29.ipynb
 
 ## 👤 Author
 
-Sumit Kumar
+**Sumit Kumar**
