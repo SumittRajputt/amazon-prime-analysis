@@ -45,7 +45,7 @@ This project performs Exploratory Data Analysis (EDA) on Amazon Prime Video's da
 
 ## 🚀 Project Link
 
-[[Amazon Analysis file]](https://colab.research.google.com/drive/1Rf5CTXQuv7UdYwMnxi36JVdSXgRVjMA2#scrollTo=kFkGJC18euPw&uniqifier=3)
+[[Click here to view notebook]](https://colab.research.google.com/drive/1Rf5CTXQuv7UdYwMnxi36JVdSXgRVjMA2#scrollTo=kFkGJC18euPw&uniqifier=3)
 
 ---
 
